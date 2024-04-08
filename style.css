@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: aquamarine;
+    color: aliceblue;
+}
+.container{
+    margin: 12%;
+    width: 100%;
+}
+.container h1{
+    color: brown;
+    font-weight: 500;
+    font-size: 40px;
+}
+.display{
+    margin-top: 20px;
+    margin-bottom: 30px;
+    display: flex;
+    align-items: center;
+    justify-items: space-between;
+    background: white;
+    width: 30%;
+    padding: 20px;
+    border-radius: 20px;
+}
